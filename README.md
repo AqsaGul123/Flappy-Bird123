@@ -9,9 +9,13 @@ Flappy Bird is a lightweight clone of the popular mobile game built using Python
 ## 🚀 Features:
 
 🕹️ Classic Flappy Bird mechanics
+
 📈 Score tracking and high score display
+
 🎨 Pixel-style graphics and animations
+
 🔊 Sound effects for jumping and collisions
+
 📦 Lightweight and easy to run locally
 
 
