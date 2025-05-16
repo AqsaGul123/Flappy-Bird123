@@ -51,6 +51,10 @@ python -m pip install pygame
 echo Running the game...
 python flappybird.py
 
+python -m pip install --upgrade pip
+python -m pip install pygame
+
+
    
   
 
