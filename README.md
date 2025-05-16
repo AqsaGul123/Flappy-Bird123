@@ -1,4 +1,4 @@
-🐦 Flappy Bird:
+Flappy Bird Game:
 
 Flappy Bird is a lightweight clone of the popular mobile game built using Python and Pygame. Fly the bird through gaps between pipes, test your reflexes, and try to beat your high score!
 
@@ -26,26 +26,19 @@ Pygame (for graphics and game loop)
 
 📦 Installation & Usage:
 
-1. Clone the repository:
+1. Clone the Repository
    
 git clone https://github.com/yourusername/flappy-bird
 cd flappy-bird
 
-3. Install dependencies:
+2. Install Dependencies
    
 pip install pygame
 
-5. Run the game:
+3. Run the Game
    
 python flappy_bird.py
 
-📌 Notes
-All assets (sprites, sounds) are included in the repo
 
-No internet required — runs fully offline
-
-Optimized for desktop environments
-
-Great for learning basic game development with Pygame
 
 
