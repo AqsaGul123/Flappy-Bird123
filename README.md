@@ -24,9 +24,10 @@ Pygame (for graphics and game loop)
 
 
 
-##📦 Installation & Usage:
+## 📦 Installation & Usage
 
-#1. Clone the Repository:
+### Clone the Repository
+
    
 First, clone the repository to your local machine using the following command:
 
