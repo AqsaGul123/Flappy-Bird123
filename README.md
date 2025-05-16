@@ -1,32 +1,37 @@
-# Flappy-Bird123
-🐦 Flappy Bird Game in Python This project is a Python implementation of the classic Flappy Bird game, built using the Pygame library. The game recreates the familiar mechanics of the original: tap to make the bird fly, avoid obstacles, and survive as long as possible.
-🎮 Features:
-1:Classic flappy gameplay mechanics
+#Flappy Bird Game:
+A simple clone of the classic Flappy Bird game built using Python and Pygame
+In this game, you control a bird that flaps its wings to navigate through pipes. The objective is to avoid the pipes and stay in the air for as long as possible. Each time the bird passes through a pair of pipes, you score a point. The game ends if the bird collides with a pipe or the ground.
+#Features:
+Flappy Bird Clone: A faithful recreation of the popular mobile game.
 
-Procedurally generated pipes with gaps
+Simple Controls: Tap the space bar to make the bird flap and avoid pipes.
 
-Score tracking and high score system
+Score System: Keep track of the score as you navigate through the pipes.
 
-Pixel-art style graphics (customizable)
+Pygame Implementation: Built with Python and Pygame for smooth gameplay.
+#Installation Instructions for Flappy Bird Game:
+1:Clone the Repository
+First, you need to clone the repository containing the Flappy Bird game. Open a terminal or command prompt and run the following command:
 
-Sound effects for jumps and collisions
+bash
+Copy
+Edit
+git clone https://github.com/your-username/flappy-bird.git
+2:Install Pygame
+If you don’t have Pygame installed, you need to install it before you can run the game. To install Pygame, run:
 
-Game over and restart functionality
+bash
+Copy
+Edit
+pip install pygame
+3:Running the Game
+Now that you've installed all the dependencies, you're ready to run the game!
 
-2: Technologies Used:
-Python 3
+Execute the following command to start the game:
 
-Pygame library for graphics, sound, and game loop handling
-3: How to Play:
-Press the spacebar (or mouse click) to make the bird flap
+bash
+Copy
+Edit
+python flappy_bird.py
 
-Navigate through the gaps between pipes
 
-Avoid hitting the pipes or falling to the ground
-
-Try to beat your high score!
-
- 4 :Installation:
-Install Python 3 (if not already installed)
-
-Install Pygame:
