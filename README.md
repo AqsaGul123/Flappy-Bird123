@@ -26,7 +26,7 @@ Pygame (for graphics and game loop)
 
 📦 Installation & Usage:
 
-1. Clone the Repository
+1. Clone the Repository:
    
   ```bash
 git clone https://github.com/your-username/flappy-bird.git
@@ -34,13 +34,6 @@ cd flappy-bird
 
 
 
-   
-
-
-
-   
- ```bash
-python flappy_bird.py
 
 
 
