@@ -28,7 +28,8 @@ Pygame (for graphics and game loop)
 
 1. Clone the Repository
    
-git clone https://github.com/yourusername/flappy-bird
+  ```bash
+git clone https://github.com/your-username/flappy-bird.git
 cd flappy-bird
 
 2. Install Dependencies
