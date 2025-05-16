@@ -37,6 +37,7 @@ pip install pygame
 
 3. Run the Game
    
+ ```bash
 python flappy_bird.py
 
 
