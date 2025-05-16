@@ -26,33 +26,53 @@ Pygame (for graphics and game loop)
 
 📦 Installation & Usage:
 
-@echo off
-SETLOCAL ENABLEDELAYEDEXPANSION
+1. Clone the Repository:
+First, clone the repository to your local machine using the following command:
 
-:: Step 1: Clone the repository
-echo Cloning the repository...
+'''bash
+Copy
+Edit
 git clone https://github.com/your-username/flappy-bird.git
 cd flappy-bird
+To copy the above command, you can hover over the code block and use the copy button that appears (on GitHub and other platforms that support it).
 
-:: Step 2: Check if Python is installed, if not, prompt the user to install it
-echo Checking for Python installation...
-python --version >nul 2>&1
-IF %ERRORLEVEL% NEQ 0 (
-    echo Python is not installed. Please install Python 3 from https://www.python.org/downloads/.
-    exit /b
-)
+2. Install Python & Pygame:
+Make sure you have Python and Pygame installed. If not, follow these instructions:
 
-:: Step 3: Install Pygame using pip
-echo Installing Pygame...
-python -m pip install --upgrade pip
-python -m pip install pygame
+For Ubuntu/Debian Systems:
+'''bash
+Copy
+Edit
+sudo apt update
+sudo apt install python3 python3-pip
+pip3 install pygame
+For macOS:
+'''bash
 
-:: Step 4: Run the game
-echo Running the game...
+
+brew install python
+pip3 install pygame
+For Windows:
+'''bash
+Copy
+Edit
+pip install pygame
+To copy the commands, just click the copy icon next to the code block (on GitHub).
+
+3. Run the Game:
+Now that you’ve installed everything, you can run the game with the following command:
+
+'''bash
+Copy
+Edit
+python3 flappybird.py
+For Windows, you may need to run:
+
+'''bash
+Copy
+Edit
 python flappybird.py
-
-python -m pip install --upgrade pip
-python -m pip install pygame
+Once you have everything set up, press Spacebar to make the bird flap and avoid the pipes. Try to beat your high score!
 
 
    
