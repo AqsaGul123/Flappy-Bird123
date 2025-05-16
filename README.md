@@ -32,11 +32,12 @@ Pygame (for graphics and game loop)
 git clone https://github.com/your-username/flappy-bird.git
 cd flappy-bird
 
-2. Install Dependencies
-   
-pip install pygame
 
-3. Run the Game
+
+   
+
+
+
    
  ```bash
 python flappy_bird.py
